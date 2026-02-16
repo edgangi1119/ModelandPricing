@@ -108,7 +108,7 @@ export default function AccountBasedApproach() {
           href="#"
           className="inline-flex items-center gap-2 text-[#0c4e44] font-semibold hover:gap-3 transition-all hover:text-[#0a332b] mt-12"
         >
-          Learn more about our data-driven approach
+          Learn more about our account-based approach
           <ArrowRight className="size-4" />
         </a>
       </div>
