@@ -103,36 +103,6 @@ export default function AccountBasedApproach() {
           <ICPWorkshopIllustration />
         </div>
 
-        {/* Weekly & Monthly Reviews */}
-        <div>
-          <h3 className="mb-6">Weekly & Monthly Reviews</h3>
-
-          <div className="space-y-4">
-            <div>
-              <p className="font-semibold text-black mb-3">
-                Weekly: Tactical adjustments based on performance
-              </p>
-              <ul className="space-y-2 text-[#515151]">
-                <li>• Connection rate trending down? Refresh lists.</li>
-                <li>• Conversion rate dropping? Script needs work.</li>
-                <li>• Specific objection spiking? Add handling framework.</li>
-              </ul>
-            </div>
-
-            <div>
-              <p className="font-semibold text-black mb-3">
-                Monthly: Strategic direction
-              </p>
-              <ul className="space-y-2 text-[#515151]">
-                <li>• Which ICP segments are converting to pipeline?</li>
-                <li>• Should we double down on one persona vs. another?</li>
-                <li>• Are we hitting the right titles and companies?</li>
-                <li>• Where should we expand or contract targeting?</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
         {/* CTA */}
         <a
           href="#"
