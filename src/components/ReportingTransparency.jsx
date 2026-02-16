@@ -71,34 +71,7 @@ export default function ReportingTransparency() {
             </div>
           </div>
 
-          {/* Call Data */}
-          <div>
-            <h3 className="mb-6">How We Use Call Data to Refine Scripts</h3>
-
-            <p className="text-[#515151] mb-6">
-              We analyze conversation patterns to understand how to approach each persona:
-            </p>
-
-            <ul className="space-y-3 text-[#515151] mb-6">
-              <li>
-                • <strong>Buyer state:</strong> Are they hostile, neutral, or open when we call?
-              </li>
-              <li>
-                • <strong>Discovery quality:</strong> How many questions lead to booked meetings?
-              </li>
-              <li>
-                • <strong>Talk ratio:</strong> Are we pitching too much or listening enough?
-              </li>
-              <li>
-                • <strong>Pacing:</strong> How fast should we talk for this audience?
-              </li>
-            </ul>
-
-            <p className="text-[#515151]">
-              This informs script adjustments - not theory, but data from hundreds of actual
-              conversations with your target personas.
-            </p>
-          </div>
+          
 
           {/* Weekly & Monthly Reviews */}
           <div>
